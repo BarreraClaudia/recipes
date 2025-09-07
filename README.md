@@ -1,8 +1,6 @@
 # Recipes
 
-A website to share your favorite recipes.
-
-See [here](https://barreraclaudia.github.io/odin-recipes/).
+A website with my favorite recipes.
 
 ![screenshot](img/screenshot.png)
 
@@ -17,3 +15,7 @@ See [here](https://barreraclaudia.github.io/odin-recipes/).
 ## Image Credits
 
 Photo by alleksana: https://www.pexels.com/photo/food-on-white-background-6400000/
+
+## To Do
+
+Style other pages
